@@ -1,4 +1,4 @@
-# 💻 Blog Post Card
+# Blog Post Card
 
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
@@ -18,17 +18,17 @@
 ![Learning Path](https://img.shields.io/badge/learning%20path-month%202-blue)
 ![Views](https://visitor-badge.laobi.icu/badge?page_id=CodingWithJiro.freecodecamp-css-blog-post-card&left_text=repo%20views)
 
-## ℹ️ A Simple Card Component Web Page
+## A Simple Card Component Web Page
 
 ![Screenshot of the project](./screenshot.png)
 
 This project features a clean and modern blog post card UI component. It showcases a promotional blog preview using a card layout with styled typography, borders, and responsive design techniques.
 
-It was built entirely with HTML and CSS as part of the [**freeCodeCamp.org**](https://www.freecodecamp.org/learn/full-stack-developer/) CSS course.
+It was built entirely with HTML and CSS as part of the **[freeCodeCamp.org](https://www.freecodecamp.org/learn/full-stack-developer/)** CSS course.
 
 ---
 
-## 🔍 Overview
+## Overview
 
 The **Blog Post Card** is a static UI component designed to preview a blog article. It contains an image, a headline, a short excerpt, and a "Read More" button linking to an external resource.
 
@@ -36,7 +36,7 @@ The design uses a minimalist layout with clearly defined sections, soft color to
 
 ---
 
-## ✨ Features
+## Features
 
 - Clean, centered card layout
 - Responsive design using flexible widths and `max-width`
@@ -48,7 +48,7 @@ The design uses a minimalist layout with clearly defined sections, soft color to
 
 ---
 
-## 🧠 What I Learned
+## What I Learned
 
 - How to design and center a standalone card component
 - Best practices for semantic HTML elements like `<time>` and `<section>`
@@ -59,7 +59,7 @@ The design uses a minimalist layout with clearly defined sections, soft color to
 
 ---
 
-## 🛠️ Tech Used
+## Tech Used
 
 - HTML5
 - CSS3
@@ -69,23 +69,23 @@ The design uses a minimalist layout with clearly defined sections, soft color to
 
 ---
 
-## 🚀 How to Run
+## How to Run
 
 1. Clone the repository
 2. Open `index.html` in your browser
 
 ---
 
-## 🌐 Live Demo
+## Live Demo
 
-Or you can check out the 👉 [live website here](https://blog-post-card-fcc-jiro.netlify.app/)
+Or you can check out the **[live website here](https://blog-post-card-fcc-jiro.netlify.app/)**
 
 ---
 
-## 🧑‍💻 Author
+## Author
 
 Created by **Elmar Chavez**
 
-🗓️ Month/Year: **May 2025**
+Month/Year: **May 2025**
 
-📚 Journey: **2<sup>nd</sup>** month of learning _frontend web development_.
+Journey: **2<sup>nd</sup>** month of learning _frontend web development_.
